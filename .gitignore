@@ -1,0 +1,23 @@
+﻿/ProyectoQ3Backend/ProyectoQ3Backend.csproj
+
+#Archivos de build
+
+bin/
+obj/
+
+#Rider
+.idea/
+
+#Las credenciales de Firebase nunca se deben de subir
+Config/firebase-credentialsjson
+
+#Archivos  locales
+appsettings.Development.json
+
+#Sistema operativo
+.DS_Store
+Thumbs.db
+
+#Archivos de usuario
+*.user
+*.suo
